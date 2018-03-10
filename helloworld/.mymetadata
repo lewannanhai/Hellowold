@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="asss"
+  id="myeclipse.1520425324163"
+  context-root="/asss"
+  j2ee-spec="5.0"
+  archive="asss.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
